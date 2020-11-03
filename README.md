@@ -23,6 +23,9 @@ A pie chart showing a disproportionally higher amount of men using the bikes tha
 An area chart showing a possible relationship between age and bike usage:
 ![Area_Chart](https://github.com/pratishthasingh1/bikesharing/blob/main/TripDurationAge.png?raw=true)
 
+A map showing where bikes are started from their starting stations:
+![Starting_Location](https://github.com/pratishthasingh1/bikesharing/blob/main/StartTimeArea.png?raw=true)
+
 
 
 # Summary: 
