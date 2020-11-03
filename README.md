@@ -26,7 +26,7 @@ An area chart showing a possible relationship between age and bike usage:
 
 
 # Summary: 
-Throughout the analysis: a trend was seen -- peak hours and gender difference.  Above are visualizations that present these results.
+Throughout the analysis: a trend was seen -- differences in hours, age and gender.  Above are visualizations that present these results. I believe women should be targeted by using adds to increase their bike usage. Younger people tend to use bikes, so we can either increase access to bikes in areas such as college towns and "younger" neighborhoods, or provide incentives for older age groups to join the program. There are also peak hours that these bikes are primarily used. This is helpful in knowing when maintenance can be done. 
 
 Two additional visualizations that you would perform with the given dataset.
 * I would see why there is such a huge gender difference. Is it due to lack of access? I would try to document where the women and men are primarily located and increase access to bikes (if there isn't enough) where women are.
