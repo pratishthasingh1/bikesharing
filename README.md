@@ -1,6 +1,11 @@
 # Overview
 An analyst was tasked with determining if investing in a bike company is a good option. Using Tableau, worksheets were generated. Below you will find stories that display these worksheets. While doing analysis, it was determined there are certain peak hours which would mean maintenance during this time may be an inconvenience. There was a gender and age difference seen in bike usage.
 
+Tableau:
+![Tableau](https://public.tableau.com/views/Citi_Bike_Analysis_16043585000540/BikeUsageandArea2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+Module work:
+![Module](https://public.tableau.com/views/ModuleWork_16043309215460/TripDuration_1?:language=en&:display_count=y&:origin=viz_share_link)
+
 # Results
 A line graph displaying the number of bikes checked out by duration for all users; filtered by the hour:
 ![Peak_Hours](https://github.com/pratishthasingh1/bikesharing/blob/main/PeakHours.png?raw=true)
@@ -28,7 +33,6 @@ A map showing where bikes are started at their starting stations:
 
 A map showing where bikes are stopped at their ending stations: 
 ![Ending_Location](https://github.com/pratishthasingh1/bikesharing/blob/main/Stop_Location.png?raw=true)
-
 
 # Summary
 Throughout the analysis: a trend was seen -- differences in hours, age and gender.  Above are visualizations that present these results. I believe women should be targeted by using adds to increase their bike usage. Younger people tend to use bikes, so we can either increase access to bikes in areas such as college towns and "younger" neighborhoods, or provide incentives for older age groups to join the program. There are also peak hours that these bikes are primarily used. This is helpful in knowing when maintenance can be done. Either way, as densely populated NYC is (refer to last two maps above), Citi bike would be a good investment.
