@@ -3,10 +3,12 @@ An analyst was tasked with determining if investing in a bike company is a good 
 
 Tableau:
 https://public.tableau.com/views/Citi_Bike_Analysis_16043585000540/BikeUsageandArea2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
 Module work:
 https://public.tableau.com/views/ModuleWork_16043309215460/TripDuration_1?:language=en&:display_count=y&:origin=viz_share_link
+
 Dataframe:
-![df](https://github.com/pratishthasingh1/bikesharing/blob/main/bikesharing_challenge.ipynb)
+https://github.com/pratishthasingh1/bikesharing/blob/main/bikesharing_challenge.ipynb
 
 # Results
 A line graph displaying the number of bikes checked out by duration for all users; filtered by the hour:
