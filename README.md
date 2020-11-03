@@ -2,9 +2,9 @@
 An analyst was tasked with determining if investing in a bike company is a good option. Using Tableau, worksheets were generated. Below you will find stories that display these worksheets. While doing analysis, it was determined there are certain peak hours which would mean maintenance during this time may be an inconvenience. There was a gender and age difference seen in bike usage.
 
 Tableau:
-![Tableau](https://public.tableau.com/views/Citi_Bike_Analysis_16043585000540/BikeUsageandArea2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+(https://public.tableau.com/views/Citi_Bike_Analysis_16043585000540/BikeUsageandArea2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 Module work:
-![Module](https://public.tableau.com/views/ModuleWork_16043309215460/TripDuration_1?:language=en&:display_count=y&:origin=viz_share_link)
+(https://public.tableau.com/views/ModuleWork_16043309215460/TripDuration_1?:language=en&:display_count=y&:origin=viz_share_link)
 
 # Results
 A line graph displaying the number of bikes checked out by duration for all users; filtered by the hour:
